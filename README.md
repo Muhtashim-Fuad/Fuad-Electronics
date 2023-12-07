@@ -1,3 +1,8 @@
+# Screenshots
+![Screenshot 2023-12-07 at 21-22-25 Fuad Electronics](https://github.com/Muhtashim-Fuad/Fuad-Electronics/assets/93215661/37e21025-e94d-444f-a784-b89598fa799e)
+![Screenshot 2023-12-07 at 21-23-33 Fuad Electronics](https://github.com/Muhtashim-Fuad/Fuad-Electronics/assets/93215661/fb289fad-fe92-48fa-8fbf-d75e196b7be1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
