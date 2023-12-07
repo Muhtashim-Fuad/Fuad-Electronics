@@ -135,6 +135,7 @@ export default function App()
                 <>
                     <ProductPanel headerText="Trending New" productList={ProductList.filter(filterByNewItems).map(createProductCard)}/>
                     <ProductPanel headerText="On Sale" productList={ProductList.filter(filterByOnSaleItems).map(createProductCard)}/>
+                    <Footer/>
                 </> :
                 <>
                     <ProductPanel 
@@ -143,7 +144,7 @@ export default function App()
                     />
                 </>
             }
-            <Footer/>
+            
             </div>
         }
     </div>
